@@ -1,9 +1,11 @@
-body{
+
+body {
     background: #F2F2F2;
     max-width: 900px;
     margin: 10px auto;
     padding: 30px;
     }
+
     h1{
     color: #e73535;
     padding-bottom: 20px;
@@ -13,4 +15,3 @@ body{
     p{
     font:italic;
     }
-
